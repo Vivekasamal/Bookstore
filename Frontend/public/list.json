@@ -1,0 +1,120 @@
+[
+
+    {
+"id":1,
+"name":"Story Book",
+"title":"Dive into a world of imagination and adventure with captivating story collections....",
+"price":0,
+"category":"Free",
+"image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+
+
+    },
+
+
+
+    {
+        "id":2,
+        "name":"Drama Book",
+        "title":"Step into the spotlight with gripping drama books that bring theatrical storytelling to life.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+        
+        
+            },
+
+
+
+            {
+                "id":3,
+                "name":"Comedy Book",
+                "title":"Enjoy lighthearted fun and endless laughter with a delightful selection of comedy books.",
+                "price":0,
+                "category":"Free",
+                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                
+                
+                    },
+
+                    {
+                        "id":4,
+                        "name":"Poem Book",
+                        "title":"Each collection offers verses that inspire, soothe, and connect, making them ideal.",
+                        "price":0,
+                        "category":"Free",
+                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                        
+                        
+                            },
+                            {
+                                "id":5,
+                                "name":"Food Book",
+                                "title":"Perfect for food lovers who enjoy discovering new cuisines, cooking techniques, and culinary inspiration.",
+                                "price":200,
+                                "category":"Food",
+                                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                
+                                
+                                    },
+                                    {
+                                        "id":6,
+                                        "name":"Story Book",
+                                        "title":"Dive into a world of imagination and adventure with captivating story collections.",
+                                        "price":30,
+                                        "category":"Story",
+                                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                        
+                                        
+                                            },
+                                            {
+                                                "id":7,
+                                                "name":"Comedy Book",
+                                                "title":"Enjoy lighthearted fun and endless laughter with a delightful selection of comedy books.",
+                                                "price":0,
+                                                "category":"Free",
+                                                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                                
+                                                
+                                                    },
+                                                    {
+                                                        "id":8,
+                                                        "name":"Story Book",
+                                                        "title":"Dive into a world of imagination and adventure with captivating story collections.",
+                                                        "price":0,
+                                                        "category":"Free",
+                                                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                                        
+                                                        
+                                                            },
+                                                            {
+                                                                "id":9,
+                                                                "name":"Sports Book",
+                                                                "title":"Perfect for sports enthusiasts who love to explore the thrill of competition and the spirit of victory.",
+                                                                "price":50,
+                                                                "category":"sports",
+                                                                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                                                
+                                                                
+                                                                    },
+                                                                    {
+                                                                        "id":10,
+                                                                        "name":"Comedy Book",
+                                                                        "title":"Enjoy lighthearted fun and endless laughter with a delightful selection of comedy books.",
+                                                                        "price":20,
+                                                                        "category":"Entertainment",
+                                                                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                                                        
+                                                                        
+                                                                            },
+                                                                            {
+                                                                                "id":11,
+                                                                                "name":"Poem Book",
+                                                                                "title":"Each collection offers verses that inspire, soothe, and connect, making them ideal.",
+                                                                                "price":0,
+                                                                                "category":"Free",
+                                                                                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1733414155~exp=1733417755~hmac=1ae8401a3a05c56113094e27571d753df52f9491d1728c6af7d96c56c5e8ac9a&w=740"
+                                                                                
+                                                                                
+                                                                                    }
+]
